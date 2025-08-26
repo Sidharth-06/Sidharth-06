@@ -52,7 +52,7 @@
 ## 🌐 Connect With Me  
 
 📫 Reach me at:  
-[LinkedIn](#) | [Portfolio](#) | [Twitter](#)  
+[LinkedIn](https://www.linkedin.com/in/sidharth-k-t-065b2b22a)
 
 ---
 ✨ *Focused on building solutions that merge AI innovation with practical impact.*

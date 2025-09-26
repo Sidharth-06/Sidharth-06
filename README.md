@@ -53,6 +53,7 @@
 
 📫 Reach me at:  
 [LinkedIn](https://www.linkedin.com/in/sidharth-k-t-065b2b22a)
+[Portfolio](https://sidharth-06.github.io/portfolio/)
 
 ---
 ✨ *Focused on building solutions that merge AI innovation with practical impact.*
